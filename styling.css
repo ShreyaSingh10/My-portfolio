@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background: url("http://placeimg.com/200/200/arch");
+  background-size: cover;
+  background-position: center;
+  color: white;
+  font-family: helvetica;
+}
+img{
+  border-radius: 100px;
+  border: 3px solid pink;
+  margin-top: 30px;
+}
+p {
+  font-size: 22px;
+}
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+}
+input[type="submit"] {
+  background: red;
+  color: white;
+}
+a{
+  font: bold 11px;
+  text-decoration: none;
+  background-color: #EEEEEE;
+  color: #333333;
+  font-size: 12px;
+  padding: 15px 10px 12px 10px;
+  border-top: 1px solid #CCCCCC;
+  border-right: 1px solid #333333;
+  border-bottom: 1px solid #333333;
+  border-left: 1px solid #CCCCCC;
+}
